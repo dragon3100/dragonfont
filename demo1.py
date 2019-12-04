@@ -6,6 +6,11 @@
 
 #sum 1-100
 
+#=============
+
+print(sum(range(1, 101)))
+
+#==============
 def sum():
     sum=0
     n = 1
@@ -31,4 +36,5 @@ def sum(x,y):
     return x+y
 print(reduce(sum, range(1, 101)))
 
-#=============
+#============
+
