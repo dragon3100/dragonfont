@@ -1,0 +1,70 @@
+谷歌浏览器v80正式版主要更新，加强网页登陆安全性，调整第三方Cookie策略。引入SameSite cookie更严格的安全分类，只有HTTPS、且SameSite设置为None时才允许第三方调用Cookie。其实早在Chrome 51中，SaMSIte Cookie首次引入，其设计用来阻伪造的止跨站点Cookie请求。
+
+谷歌浏览器v79正式版主要更新，对密码检查工具的内置支持，通过安全浏览API实时将恶意网站列入黑名单，可预防网络钓鱼的常规可用性，禁止加载HTTPS“混合内容”，支持选项卡冻结，Chrome Sync个人资料部分的新界面，以及对后退缓存机制的支持。
+
+谷歌浏览器v78正式版主要更新，带来了多项功能和改进，在Windows 10（版本 1511+）系统上默认启用。还引入了内置的密码检查工具，目的是如果在用户登录期间发现异常就会发出提醒，允许用户在新标签页中添加壁纸，以及安装来自于Chrome Web Store上的主题。
+
+官方更新日志
+
+Chrome稳定版已经更新到v80.0.3987.106
+
+Google Chrome 稳定版 离线安装包 官方本地下载地址：
+
+Google Chrome v80.0.3987.106 无更新功能版 64位
+
+SHA1：69F140BB23F2087952CE1E51BDC40264A5F34A8A
+
+SHA256：8E368E9AC2577F68CB8C7E505E38B64ADD1AA0D07DACADE330248866EB1FBDCA
+
+http://dl.google.com/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://dl.google.com/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+http://www.google.com/dl/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://www.google.com/dl/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+http://redirector.gvt1.com/edgedl/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://redirector.gvt1.com/edgedl/release2/chrome/Tjuca0jief-wOTq1pFmspg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+Google Chrome v80.0.3987.106 无更新功能版 32位
+
+SHA1：450AA666804964123FF2045B3AE9115EC81821DA
+
+SHA256：A4F26E8E1F3261788148D504169D90197FF2F4A46A119BF9A603D66493855774
+
+http://dl.google.com/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://dl.google.com/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+http://www.google.com/dl/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://www.google.com/dl/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+http://redirector.gvt1.com/edgedl/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+https://redirector.gvt1.com/edgedl/release2/chrome/XniRgTinq_-dtcsbCxxrDg_80.0.3987.106/80.0.3987.106_chrome_installer.exe
+
+Google Chrome v80.0.3987.106 Mac版
+
+SHA1：59D42CD7DD84C69498CF3172D498276E6053F51E
+
+SHA256：07029F6D39A5D12B3646B7EFCC57FA89E087D6682FFD09AD18DDEE42DB95A80D
+
+
+http://dl.google.com/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+https://dl.google.com/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+http://www.google.com/dl/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+https://www.google.com/dl/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+http://redirector.gvt1.com/edgedl/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+https://redirector.gvt1.com/edgedl/release2/chrome/APQvADkPTs-O8jviXrIg2Gk_80.0.3987.106/GoogleChrome-80.0.3987.106.dmg
+
+Google Chrome 官方带更新功能版 网盘：
+
+https://www.lanzous.com/b138066
